@@ -1,3 +1,11 @@
+/**
+ * Este é um módulo que exporta vários componentes estilizados usando a biblioteca styled-components em JavaScript. 
+ * Os componentes incluem uma barra de navegação fixa, um texto de login, um formulário de registro, uma imagem e um botão.
+ * Os estilos são definidos usando a sintaxe CSS-in-JS. As imagens importadas são usadas como imagens de fundo para o logotipo
+ * e os componentes de imagem.
+*/
+
+
 import styled from "styled-components";
 import img from "./img/guiacomercio.png"
 import logo from "./img/logo.png";
