@@ -1,3 +1,9 @@
+/**
+ * This function defines the routes for a React application using the React Router library.
+ * @returns The MyRoutes component is being returned, which contains a set of Route components that
+ * define the paths and corresponding components to be rendered for each path in a React Router
+ * application.
+ */
 import { Routes, Route } from "react-router-dom";
 import Home from "./Home";
 import Login from "./Login";
