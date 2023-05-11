@@ -1,5 +1,4 @@
 /**
-
  * A função é um componente React para uma página de registro de usuário com campos de formulário para nome, email,
  * CPF, senha e confirmação de senha. 
  * @returns Um componente que renderiza um formulário de registro com campos de entrada para email, nome, CPF,
